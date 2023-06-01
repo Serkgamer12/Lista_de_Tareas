@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+}
+
+.tamaño {
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.lista_sin_viñeta {
+    list-style: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.relleno:hover {
+    background-color: lightyellow;    
+}
+
+.relleno:focus {
+    background-color: lightcyan;
+} 
+
+#gris{
+    text-decoration: line-through;
+    color: grey;
+}
+
